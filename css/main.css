@@ -1280,7 +1280,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 @media only screen and (max-width: 600px) {
     .display-1 {
-        font-size: 5rem;
+        font-size: 4rem;
     }
     .display-2 {
         font-size: 3.3rem;
@@ -1292,7 +1292,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 @media only screen and (max-width: 400px) {
     .display-1 {
-        font-size: 4.2rem;
+        font-size: 3.3rem;
     }
     .display-2 {
         font-size: 3rem;
@@ -1793,7 +1793,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .home-content h3 {
     font-family: "montserrat-medium", sans-serif;
     font-size: 1.6rem;
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(247, 171, 109, 0.5);
     text-transform: uppercase;
     letter-spacing: .3rem;
     position: relative;
