@@ -1822,8 +1822,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .home-content__buttons .btn {
     width: 215px;
-    border-color: #FFFFFF;
-    color: #FFFFFF;
+    /*border-color: #FFFFFF;
+    color: #FFFFFF;*/
     margin: 1.5rem 1.5rem 0 0;
     letter-spacing: .25rem;
     -webkit-transition: all 0.5s ease-in-out;
@@ -1837,7 +1837,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .home-content__buttons .btn:hover,
 .home-content__buttons .btn:focus {
     background: #FFFFFF !important;
-    color: #000000;
+    color: #c0870c;
 }
 
 .home-content__scroll {
