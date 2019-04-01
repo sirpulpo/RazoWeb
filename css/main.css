@@ -96,7 +96,7 @@ a {
 }
 
 a:hover, a:focus, a:active {
-    color: #ff7a00;
+    color: #c0870c;
 }
 
 a:hover, a:active {
@@ -367,7 +367,7 @@ ul.disc li::before {
     width: 8px;
     height: 8px;
     border-radius: 50%;
-    background: #ff7a00;
+    background: #c0870c;
     position: absolute;
     left: -17px;
     top: 11px;
@@ -376,7 +376,7 @@ ul.disc li::before {
 
 dt {
     margin: 0;
-    color: #ff7a00;
+    color: #c0870c;
 }
 
 dd {
@@ -772,7 +772,7 @@ textarea:-webkit-autofill:hover textarea:-webkit-autofill:focus,
 select:-webkit-autofill,
 select:-webkit-autofill:hover,
 select:-webkit-autofill:focus {
-    -webkit-text-fill-color: #ff7a00;
+    -webkit-text-fill-color: #c0870c;
     transition: background-color 5000s ease-in-out 0s;
 }
 
@@ -847,8 +847,8 @@ button.btn--primary:focus,
 input[type="submit"].btn--primary:focus,
 input[type="reset"].btn--primary:focus,
 input[type="button"].btn--primary:focus {
-    background: #ff7a00;
-    border-color: #ff7a00;
+    background: #c0870c;
+    border-color: #c0870c;
 }
 
 
@@ -1101,7 +1101,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .stats-tabs li a:hover {
-    color: #ff7a00;
+    color: #c0870c;
 }
 
 .stats-tabs li a em {
@@ -1280,7 +1280,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 @media only screen and (max-width: 600px) {
     .display-1 {
-        font-size: 5rem;
+        font-size: 4rem;
     }
     .display-2 {
         font-size: 3.3rem;
@@ -1292,7 +1292,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 @media only screen and (max-width: 400px) {
     .display-1 {
-        font-size: 4.2rem;
+        font-size: 3.3rem;
     }
     .display-2 {
         font-size: 3rem;
@@ -1793,7 +1793,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .home-content h3 {
     font-family: "montserrat-medium", sans-serif;
     font-size: 1.6rem;
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(247, 171, 109, 0.5);
     text-transform: uppercase;
     letter-spacing: .3rem;
     position: relative;
@@ -1944,7 +1944,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-social span {
-    color: #ff7a00;
+    color: #c0870c;
     right: 4.5rem;
     font-size: 1.3rem;
     opacity: 0;
