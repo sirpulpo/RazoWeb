@@ -623,7 +623,7 @@ select {
     outline: none;
     color: #333333;
     font-family: "montserrat-light", sans-serif;
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     line-height: 3rem;
     max-width: 100%;
     background: transparent;
@@ -872,12 +872,12 @@ input[type="button"].btn--primary:focus {
 
 .btn--stroke, button.btn--stroke {
     background: transparent !important;
-    border: 0.2rem solid #c0870c;
+    border: 0.2rem solid #FFFFFF;
     color: #c0870c;
 }
 
 .btn--stroke:hover, button.btn--stroke:hover {
-    border: 0.2rem solid #000000;
+    border: 0.2rem solid #c0870c;
     color: #000000;
 }
 
@@ -1457,11 +1457,11 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .header-logo a {
     display: block;
-    margin: 9px 0 0 0;
+    margin: 30px 0 0 0;
     padding: 0;
     outline: 0;
     border: none;
-    width: 80px;
+    width: 130px;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
@@ -1792,8 +1792,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .home-content h3 {
     font-family: "montserrat-medium", sans-serif;
-    font-size: 1.6rem;
-    color: rgba(247, 171, 109, 0.5);
+    font-size: 1.8rem;
+    color: #c0870c;
     text-transform: uppercase;
     letter-spacing: .3rem;
     position: relative;
@@ -1804,7 +1804,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .home-content h1 {
     font-family: "montserrat-medium", sans-serif;
-    font-size: 5.3rem;
+    font-size: 5.8rem;
     line-height: 1.333;
     margin-top: 0;
     color: #FFFFFF;
@@ -2054,7 +2054,7 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 @media only screen and (max-width: 1500px) {
     .home-content h1 {
-        font-size: 4.7rem;
+        font-size: 6rem;
     }
     .home-content__main {
         max-width: 1000px;
@@ -3031,7 +3031,7 @@ html.no-csstransitions .home-content__main {
 .contact-content input[type="password"],
 .contact-content textarea,
 .contact-content select {
-    color: rgba(255, 255, 255, 0.6);
+    color: rgba(255, 255, 255, 0.8);
     border-bottom: 1px solid rgba(255, 255, 255, 0.07);
     margin-bottom: .9rem;
 }
@@ -3382,9 +3382,9 @@ footer .row {
     outline: 0;
     border: none;
     width: 85px;
-    height: 28px;
-    background: url("../images/logo-footer.png") no-repeat center;
-    background-size: 85px 28px;
+    height: 85px;
+    background: url("../images/logo-footer.gif") no-repeat center;
+    background-size: 85px 85px;
     font: 0/0 a;
     text-shadow: none;
     color: transparent;
