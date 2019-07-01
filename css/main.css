@@ -96,7 +96,7 @@ a {
 }
 
 a:hover, a:focus, a:active {
-    color: #ce5a0c;
+    color: #cc8426;
 }
 
 a:hover, a:active {
@@ -367,7 +367,7 @@ ul.disc li::before {
     width: 8px;
     height: 8px;
     border-radius: 50%;
-    background: #ce5a0c;
+    background: #cc8426;
     position: absolute;
     left: -17px;
     top: 11px;
@@ -376,7 +376,7 @@ ul.disc li::before {
 
 dt {
     margin: 0;
-    color: #ce5a0c;
+    color: #cc8426;
 }
 
 dd {
@@ -502,7 +502,7 @@ form,
 }
 
 .pace .pace-progress {
-    background: #ce5a0c;
+    background: #cc8426;
     position: fixed;
     z-index: 900;
     top: 0;
@@ -545,7 +545,7 @@ form,
 }
 
 .line-scale-pulse-out > div {
-    background-color: #ce5a0c;
+    background-color: #cc8426;
     width: 4px;
     height: 35px;
     border-radius: 2px;
@@ -772,7 +772,7 @@ textarea:-webkit-autofill:hover textarea:-webkit-autofill:focus,
 select:-webkit-autofill,
 select:-webkit-autofill:hover,
 select:-webkit-autofill:focus {
-    -webkit-text-fill-color: #ce5a0c;
+    -webkit-text-fill-color: #cc8426;
     transition: background-color 5000s ease-in-out 0s;
 }
 
@@ -832,8 +832,8 @@ button.btn--primary,
 input[type="submit"].btn--primary,
 input[type="reset"].btn--primary,
 input[type="button"].btn--primary {
-    background: #ce5a0c;
-    border-color: #ce5a0c;
+    background: #cc8426;
+    border-color: #cc8426;
     color: #FFFFFF;
 }
 
@@ -847,8 +847,8 @@ button.btn--primary:focus,
 input[type="submit"].btn--primary:focus,
 input[type="reset"].btn--primary:focus,
 input[type="button"].btn--primary:focus {
-    background: #ce5a0c;
-    border-color: #ce5a0c;
+    background: #cc8426;
+    border-color: #cc8426;
 }
 
 
@@ -873,11 +873,11 @@ input[type="button"].btn--primary:focus {
 .btn--stroke, button.btn--stroke {
     background: transparent !important;
     border: 0.2rem solid #FFFFFF;
-    color: #ce5a0c;
+    color: #cc8426;
 }
 
 .btn--stroke:hover, button.btn--stroke:hover {
-    border: 0.2rem solid #ce5a0c;
+    border: 0.2rem solid #cc8426;
     color: #000000;
 }
 
@@ -1101,7 +1101,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .stats-tabs li a:hover {
-    color: #ce5a0c;
+    color: #cc8426;
 }
 
 .stats-tabs li a em {
@@ -1246,7 +1246,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     line-height: 1.333;
     text-transform: uppercase;
     letter-spacing: .25rem;
-    color: #ce5a0c;
+    color: #cc8426;
     margin-top: 0;
     margin-bottom: 0;
 }
@@ -1420,7 +1420,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .slick-slider .slick-dots li.slick-active button,
 .slick-slider .slick-dots li:hover button {
-    background: #ce5a0c;
+    background: #cc8426;
 }
 
 
@@ -1513,7 +1513,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     letter-spacing: .25rem;
     margin-bottom: 4.8rem;
     margin-top: .9rem;
-    color: #ce5a0c;
+    color: #cc8426;
 }
 
 .header-nav p {
@@ -1651,7 +1651,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     font-size: 1.3rem;
     text-transform: uppercase;
     letter-spacing: .3rem;
-    color: #ce5a0c;
+    color: #cc8426;
     -webkit-transition: all 0.5s ease-in-out;
     transition: all 0.5s ease-in-out;
 }
@@ -1793,7 +1793,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .home-content h3 {
     font-family: "montserrat-medium", sans-serif;
     font-size: 1.8rem;
-    color: #ce5a0c;
+    color: #cc8426;
     text-transform: uppercase;
     letter-spacing: .3rem;
     position: relative;
@@ -1837,7 +1837,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .home-content__buttons .btn:hover,
 .home-content__buttons .btn:focus {
     background: #FFFFFF !important;
-    color: #ce5a0c;
+    color: #cc8426;
 }
 
 .home-content__scroll {
@@ -1859,8 +1859,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-content__scroll a::before {
-    border-bottom: 2px solid #ce5a0c;
-    border-right: 2px solid #ce5a0c;
+    border-bottom: 2px solid #cc8426;
+    border-right: 2px solid #cc8426;
     content: '';
     display: block;
     height: 8px;
@@ -1884,16 +1884,16 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     display: block;
     width: 2px;
     height: 10.2rem;
-    background-color: #ce5a0c;
+    background-color: #cc8426;
     position: absolute;
     right: 7.2rem;
     bottom: 0;
 }
 
 
-/* -------------------------------------------------------------------
+/* -------------------------------------------------
  * ## home social
- * ------------------------------------------------------------------- */
+ * ------------------------------------------------- */
 .home-social {
     font-family: "montserrat-regular", sans-serif;
     list-style: none;
@@ -1944,7 +1944,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-social span {
-    color: #ce5a0c;
+    color: #cc8426;
     right: 4.5rem;
     font-size: 1.3rem;
     opacity: 0;
@@ -2050,7 +2050,7 @@ html.no-csstransitions .home-content__main {
 
 /* -------------------------------------------------------------------
  * responsive:
- * home
+ * home y logo
  * ------------------------------------------------------------------- */
 @media only screen and (max-width: 1500px) {
     .home-content h1 {
@@ -2059,6 +2059,16 @@ html.no-csstransitions .home-content__main {
     .home-content__main {
         max-width: 1000px;
     }
+
+    .header-logo {
+        left: 20%;
+        top: 175%;
+    }
+    
+    .header-logo a {
+        width: 50%;
+    }
+
 }
 
 @media only screen and (max-width: 1200px) {
@@ -2067,6 +2077,15 @@ html.no-csstransitions .home-content__main {
     }
     .home-content__main {
         max-width: 800px;
+    }
+
+    .header-logo {
+        left: 22%;
+        top: 175%;
+    }
+    
+    .header-logo a {
+        width: 40%;
     }
 }
 
@@ -2082,6 +2101,14 @@ html.no-csstransitions .home-content__main {
         padding-right: 80px;
         max-width: 680px;
     }
+    .header-logo {
+        left: 24%;
+        top: 180%;
+    }
+    
+    .header-logo a {
+        width: 35%;
+    }
 }
 
 @media only screen and (max-width: 800px) {
@@ -2094,6 +2121,13 @@ html.no-csstransitions .home-content__main {
     .home-content__main {
         padding-right: 70px;
         max-width: 550px;
+    }
+    .header-logo {
+        left: 24%;
+        top: 180%;
+    }
+    .header-logo a {
+        width: 30%;
     }
 }
 
@@ -2176,6 +2210,13 @@ html.no-csstransitions .home-content__main {
     .home-content h1 {
         font-size: 3.2rem;
     }
+    .header-logo {
+        left: 35%;
+        top: 120%;
+    }
+    .header-logo a {
+        width: 40%;
+    }
 }
 
 @media only screen and (max-width: 400px) {
@@ -2188,6 +2229,13 @@ html.no-csstransitions .home-content__main {
     .home-content__main {
         padding-top: 16.2rem;
         width: auto;
+    }
+    .header-logo {
+        left: 35%;
+        top: 130%;
+    }
+    .header-logo a {
+        width: 44%;
     }
 }
 
@@ -2405,7 +2453,7 @@ html.no-csstransitions .home-content__main {
 
 .services-list .service-icon {
     float: left;
-    color: #ce5a0c;
+    color: #cc8426;
     font-size: 4.8rem;
     margin-top: -.6rem;
 }
@@ -2660,6 +2708,11 @@ html.no-csstransitions .home-content__main {
 .item-folio__project-link:active {
     background-color: #FFFFFF;
     color: #000000;
+}
+
+.noDisplay {
+    visibility: hidden;
+    display: none;
 }
 
 
@@ -2974,7 +3027,7 @@ html.no-csstransitions .home-content__main {
     padding: 0 2rem;
     margin: 0;
     color: #FFFFFF;
-    background: #ce5a0c;
+    background: #cc8426;
 }
 
 .s-contact .form-field label::after {
@@ -2985,14 +3038,14 @@ html.no-csstransitions .home-content__main {
     margin-top: -6px;
     border-top: 5px solid transparent;
     border-bottom: 5px solid transparent;
-    border-right: 5px solid #ce5a0c;
+    border-right: 5px solid #cc8426;
 }
 
 .contact__line {
     display: block;
     width: 2px;
     height: 20.4rem;
-    background-color: #ce5a0c;
+    background-color: #cc8426;
     position: absolute;
     left: 50%;
     top: -10.2rem;
@@ -3019,7 +3072,7 @@ html.no-csstransitions .home-content__main {
 
 .contact-content h5 {
     margin-top: 0;
-    color: #ce5a0c;
+    color: #cc8426;
 }
 
 .contact-content input[type="email"],
@@ -3046,7 +3099,7 @@ html.no-csstransitions .home-content__main {
 .contact-content textarea:focus,
 .contact-content select:focus {
     color: #FFFFFF;
-    border-bottom: 1px solid #ce5a0c;
+    border-bottom: 1px solid #cc8426;
 }
 
 .contact-content button,
@@ -3137,7 +3190,7 @@ html.no-csstransitions .home-content__main {
 
 .contact-social li a:hover,
 .contact-social li a:focus {
-    color: #ce5a0c;
+    color: #cc8426;
 }
 
 .contact-social li:last-child {
@@ -3156,11 +3209,11 @@ html.no-csstransitions .home-content__main {
 }
 
 .message-warning {
-    color: #ce5a0c;
+    color: #cc8426;
 }
 
 .message-success {
-    color: #ce5a0c;
+    color: #cc8426;
 }
 
 .message-warning i, .message-success i {
@@ -3352,7 +3405,7 @@ footer a {
 }
 
 footer a:hover, footer a:focus, footer a:active {
-    color: #ce5a0c;
+    color: #cc8426;
 }
 
 footer .row {
@@ -3444,8 +3497,8 @@ footer .row {
     top: 0;
     right: 0;
     color: #FFFFFF;
-    background: #ce5a0c;
-    border-color: #ce5a0c;
+    background: #cc8426;
+    border-color: #cc8426;
     padding: 0 20px;
 }
 

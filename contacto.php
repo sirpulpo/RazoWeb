@@ -1,8 +1,8 @@
 <?php
-  $nombre = $_POST["name"];
-  $email = $_POST["email"];
-  $tema = $_POST["tema"];
-  $mensaje = $_POST["comments"];
+  $nombre = $_POST["contactName"];
+  $email = $_POST["contactEmail"];
+  $tema = $_POST["contactSubject"];
+  $mensaje = $_POST["contactMessage"];
 
   $contenido = "Nombre: " . $nombre . "\nCorreo: " . $email . "\nTema: " . $tema . "\nMensaje: " . $mensaje;
 
